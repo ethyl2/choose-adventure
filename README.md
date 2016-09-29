@@ -7,6 +7,8 @@ However, for this version, I'm going to be starting from scratch. The original
 one seemed to be getting a little bit too, well, strange and not like a cohesive
 story.
 
+Begin [here](language.md) to read the story.
+
 Feel free to add more to this story, following the guidelines below:
 
 # Collaborative Create-Your-Own-Adventure
